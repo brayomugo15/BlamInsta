@@ -1,0 +1,2 @@
+rootProject.name='BlamInsta'
+include ':app'
